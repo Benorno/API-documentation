@@ -116,6 +116,3 @@ This endpoint is used to send data for processing.
 - **code** (integer): HTTP status code.
 - **message** (string): A success or failure message.
 - **date** (string): Timestamp of the response (UTC format).
-
-
-Let me know if further adjustments are needed!
